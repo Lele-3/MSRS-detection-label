@@ -1,7 +1,7 @@
 # MSRS-detection-label
 This is the detection label of [MSRS dataset](https://github.com/Linfeng-Tang/MSRS).
 The label contains three categories $i.e.$ person, bicycle and car.
-We give annotations for fusion images, visible images, and infrared images respectively. 
+We give annotations for fusion images, infrared images, and visible images respectively. 
 
 ~~~
 .
